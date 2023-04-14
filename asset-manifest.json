@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/timothyhead/ARQuicklookTest.git/static/css/main.e6c13ad2.css",
-    "main.js": "/timothyhead/ARQuicklookTest.git/static/js/main.3335dc0a.js",
-    "static/js/787.0c3f432a.chunk.js": "/timothyhead/ARQuicklookTest.git/static/js/787.0c3f432a.chunk.js",
-    "static/media/chicken.jpg": "/timothyhead/ARQuicklookTest.git/static/media/chicken.c0bd7a0e175b3ff9f93d.jpg",
-    "static/media/Untitled.usdz": "/timothyhead/ARQuicklookTest.git/static/media/Untitled.b4eb2b4678654df7f6ab.usdz",
-    "index.html": "/timothyhead/ARQuicklookTest.git/index.html",
-    "main.e6c13ad2.css.map": "/timothyhead/ARQuicklookTest.git/static/css/main.e6c13ad2.css.map",
-    "main.3335dc0a.js.map": "/timothyhead/ARQuicklookTest.git/static/js/main.3335dc0a.js.map",
-    "787.0c3f432a.chunk.js.map": "/timothyhead/ARQuicklookTest.git/static/js/787.0c3f432a.chunk.js.map"
+    "main.css": "/react-gh-pages/static/css/main.e6c13ad2.css",
+    "main.js": "/react-gh-pages/static/js/main.c647f149.js",
+    "static/js/787.0c3f432a.chunk.js": "/react-gh-pages/static/js/787.0c3f432a.chunk.js",
+    "static/media/chicken.jpg": "/react-gh-pages/static/media/chicken.c0bd7a0e175b3ff9f93d.jpg",
+    "static/media/Untitled.usdz": "/react-gh-pages/static/media/Untitled.b4eb2b4678654df7f6ab.usdz",
+    "index.html": "/react-gh-pages/index.html",
+    "main.e6c13ad2.css.map": "/react-gh-pages/static/css/main.e6c13ad2.css.map",
+    "main.c647f149.js.map": "/react-gh-pages/static/js/main.c647f149.js.map",
+    "787.0c3f432a.chunk.js.map": "/react-gh-pages/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3335dc0a.js"
+    "static/js/main.c647f149.js"
   ]
 }
