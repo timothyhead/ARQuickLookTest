@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.e6c13ad2.css",
-    "main.js": "/react-gh-pages/static/js/main.c647f149.js",
-    "static/js/787.0c3f432a.chunk.js": "/react-gh-pages/static/js/787.0c3f432a.chunk.js",
-    "static/media/chicken.jpg": "/react-gh-pages/static/media/chicken.c0bd7a0e175b3ff9f93d.jpg",
-    "static/media/Untitled.usdz": "/react-gh-pages/static/media/Untitled.b4eb2b4678654df7f6ab.usdz",
-    "index.html": "/react-gh-pages/index.html",
-    "main.e6c13ad2.css.map": "/react-gh-pages/static/css/main.e6c13ad2.css.map",
-    "main.c647f149.js.map": "/react-gh-pages/static/js/main.c647f149.js.map",
-    "787.0c3f432a.chunk.js.map": "/react-gh-pages/static/js/787.0c3f432a.chunk.js.map"
+    "main.css": "/test/static/css/main.e6c13ad2.css",
+    "main.js": "/test/static/js/main.568a0d91.js",
+    "static/js/787.0c3f432a.chunk.js": "/test/static/js/787.0c3f432a.chunk.js",
+    "static/media/chicken.jpg": "/test/static/media/chicken.c0bd7a0e175b3ff9f93d.jpg",
+    "static/media/Untitled.usdz": "/test/static/media/Untitled.b4eb2b4678654df7f6ab.usdz",
+    "index.html": "/test/index.html",
+    "main.e6c13ad2.css.map": "/test/static/css/main.e6c13ad2.css.map",
+    "main.568a0d91.js.map": "/test/static/js/main.568a0d91.js.map",
+    "787.0c3f432a.chunk.js.map": "/test/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c647f149.js"
+    "static/js/main.568a0d91.js"
   ]
 }
