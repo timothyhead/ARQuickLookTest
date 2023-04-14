@@ -6,7 +6,7 @@ function App() {
     <div className="App">
 <h1>Hello</h1>
 
-<a  rel="ar" href={cube}>  <img src={chicken}></img></a>
+<a  rel="ar" href={cube + 'applePayButtonType=plain'}>  <img src={chicken}></img></a>
     </div>
   );
 }
